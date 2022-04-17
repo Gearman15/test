@@ -1,0 +1,55 @@
+body{
+    background-color: black;
+}
+h2{
+    color: rgba(255, 166, 0, 0.695);
+}
+
+a:link{text-decoration: none;}
+a:hover{text-decoration: underline;}
+a{
+color: rgba(255, 166, 0, 0.695);
+}
+a:visited{
+    color:rgba(255, 202, 104, 0.695);
+}
+.centerimg {
+    margin: 10px auto 20px;
+    display: block;
+}
+.rightimg{
+    float: right;
+}
+.leftimg{
+    float: left;
+}
+.centertxt{
+    text-align: center;
+}
+.righttxt{
+    text-align: right;
+}
+.bold{
+    font-weight: bold;
+}
+.italic{
+    font-style: italic;
+}
+.underline{
+    text-decoration: underline;
+}
+.boldcolor{
+    color: rgba(255, 166, 0, 0.695);
+}
+.lightcolor{
+    color: rgba(255, 202, 104, 0.695);
+}
+.sublist{
+    text-decoration:none;
+    color: rgba(255, 202, 104, 0.695);
+    font-style: italic;
+}
+iframe {
+    display: block;
+    margin: auto;
+}
